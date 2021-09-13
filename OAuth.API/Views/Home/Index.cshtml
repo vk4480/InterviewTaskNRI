@@ -1,0 +1,22 @@
+﻿<div class="jumbotron">
+    <table>
+        <tr>
+            <th>Words </th>
+            <th>Occurrences </th>
+        </tr>
+        @foreach (var kvp in ViewBag.CommitDict)
+        {
+            <tr>
+                <td>
+
+                    @kvp.Key
+
+                </td>
+                <td>
+                    @kvp.Value
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

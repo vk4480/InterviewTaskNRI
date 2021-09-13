@@ -1,0 +1,15 @@
+F:\vimlesh\InterviewTask\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.csprojAssemblyReference.cache
+F:\vimlesh\InterviewTask\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.csproj.CoreCompileInputs.cache
+F:\vimlesh\InterviewTask\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.AssemblyInfoInputs.cache
+F:\vimlesh\InterviewTask\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.AssemblyInfo.cs
+F:\vimlesh\InterviewTaskNRI\DisplayUI\bin\Debug\netcoreapp2.2\DisplayUI.deps.json
+F:\vimlesh\InterviewTaskNRI\DisplayUI\bin\Debug\netcoreapp2.2\DisplayUI.runtimeconfig.json
+F:\vimlesh\InterviewTaskNRI\DisplayUI\bin\Debug\netcoreapp2.2\DisplayUI.runtimeconfig.dev.json
+F:\vimlesh\InterviewTaskNRI\DisplayUI\bin\Debug\netcoreapp2.2\DisplayUI.dll
+F:\vimlesh\InterviewTaskNRI\DisplayUI\bin\Debug\netcoreapp2.2\DisplayUI.pdb
+F:\vimlesh\InterviewTaskNRI\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.csprojAssemblyReference.cache
+F:\vimlesh\InterviewTaskNRI\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.csproj.CoreCompileInputs.cache
+F:\vimlesh\InterviewTaskNRI\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.AssemblyInfoInputs.cache
+F:\vimlesh\InterviewTaskNRI\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.AssemblyInfo.cs
+F:\vimlesh\InterviewTaskNRI\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.dll
+F:\vimlesh\InterviewTaskNRI\DisplayUI\obj\Debug\netcoreapp2.2\DisplayUI.pdb

@@ -1,0 +1,17 @@
+F:\vimlesh\InterviewTask\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.csprojAssemblyReference.cache
+F:\vimlesh\InterviewTask\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.csproj.CoreCompileInputs.cache
+F:\vimlesh\InterviewTask\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.AssemblyInfoInputs.cache
+F:\vimlesh\InterviewTask\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.AssemblyInfo.cs
+F:\vimlesh\InterviewTask\DoublyLinked\bin\Debug\netstandard2.0\DoublyLinked.deps.json
+F:\vimlesh\InterviewTask\DoublyLinked\bin\Debug\netstandard2.0\DoublyLinked.dll
+F:\vimlesh\InterviewTask\DoublyLinked\bin\Debug\netstandard2.0\DoublyLinked.pdb
+F:\vimlesh\InterviewTask\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.dll
+F:\vimlesh\InterviewTask\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.pdb
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\bin\Debug\netstandard2.0\DoublyLinked.deps.json
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\bin\Debug\netstandard2.0\DoublyLinked.dll
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\bin\Debug\netstandard2.0\DoublyLinked.pdb
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.csproj.CoreCompileInputs.cache
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.AssemblyInfoInputs.cache
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.AssemblyInfo.cs
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.dll
+F:\vimlesh\InterviewTaskNRI\DoublyLinked\obj\Debug\netstandard2.0\DoublyLinked.pdb
